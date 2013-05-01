@@ -2,7 +2,7 @@
 """
 Created on Tue Nov 27 14:05:33 2012
 
-@author: Shashwath
+@author: Aman
 """
 
 from vtk import *
